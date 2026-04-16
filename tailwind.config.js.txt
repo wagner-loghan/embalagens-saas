@@ -1,0 +1,14 @@
+/** @type
+{import('tailwindcss').Config} */
+export default {
+  contente: [
+    "./resources/**/*.balde.php",
+    "./resources/**/*.js",
+    "./resources/**/*.vue",
+
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
